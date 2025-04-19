@@ -1,6 +1,6 @@
 ---
 
-This project is for academic and demonstration purposes. For commercial use, please contact the developer.
+This project is for academic and demonstration purposes.
 
 ---
 
